@@ -1,4 +1,4 @@
-# YpoxreotikiErgasia22_E12132_Nomikos_Anastasios
+# KeepNote_App
 
 <img width="100%" src="Screenshots/Search.png">
 
